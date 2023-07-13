@@ -1,0 +1,32 @@
+.background-image {
+    background-image: url('./images/Stade.jpg');
+    background-size: cover;
+    background-position: top;
+   
+  
+} 
+
+p{
+    text-align: justify;
+    text-align: start                                                       ;
+}
+
+.col img {
+    transition: transform 0.3s;
+  }
+
+  .col img:hover {
+    transform: scale(1.1);
+  }
+
+
+  .btn {
+    transition: opacity 0.3s;
+  }
+
+  .btn:hover {
+    opacity: 0.7;
+  }
+
+
+  
